@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+body {
+  padding: 10px;
+  background: rgb(23, 2, 48);
+  color: rgb(191, 225, 255);
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2em;
+  text-align: center;
+}
+#tetris {
+  border: solid .2em whitesmoke;
+  height: 90vh;
+}
